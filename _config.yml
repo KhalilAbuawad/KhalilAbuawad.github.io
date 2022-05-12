@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Khalil Abuawad
-title: Full stack Developer
+title: System developer
 email: khalil_abuawad@hotmail.com
 website: https://khalilabuawad.github.io/
 
@@ -45,21 +45,20 @@ linkedin_username: khalil-abuawad
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: Profile
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS. 
-
-  What I'm currently most fond of is: <mark>Frontend</mark>, <mark>Drawing</mark> and <mark>Body control</mark>
+  
+  Hi, my name's Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS. I'm a diversely skilled team member with skills in <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>. I'm also an independent and creative decision maker. I like to be goal oriented while finding pleasure in the journey. 
 
 content:
-  #- title: Projects # Title for the section
-  #  layout: list # Type of content section (list/text)
-  #  content:
-  #    - layout: left
-  #      title: Scheduling system
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Scheduling system 
         #link: github.com/sproogen
-        # link_text: Project Website
+        link_text: 2021 - 2022 (currently on hold)
   #      additional_links:
           #- title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
@@ -67,14 +66,14 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #      quote: >
-  #        This project help me further improve my overall frontend skills because I was responsible for large portions of the development which were at times very challenging and new, but also because I got to work with an experienced frontend developer.
-  #      description: | # this will include new lines to allow paragraphs
-  #        Client: Norwegian Air Ambulance Helicopter AS
-  #        Results: Gives the planners a well defined scheduling tool.
-  #        Contribution: Further develop the schedule view, increasing the view size, adding vacation/sick days, call exchange between employes and more... 
-  #        Frotend stack: <mark>Preact</mark><mark>PHP</mark>
-  #        This was part of a larger project, but still large by itself. I mainly worked on this project as a frontend developer but were occasianlly involved in the backend, since our team were somewhat small (4) and varied. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, but also much more.      
+        quote: >
+          This project help me further improve my overall frontend skills because I was responsible for large portions of the development which were at times very challenging and new, but also because I got to work with an experienced frontend developer.
+        description: | # this will include new lines to allow paragraphs
+          Client: Norwegian Air Ambulance Helicopter AS
+          Results: Planners currently get a good overview of the schedule of their personnel. The web application have some potential improvements like better and faster data retrival and better frontend stack, preact might have been a poor choice in hinesight. This was probably caused by there being no project leader for this project, thereby not gaining a good scope of the project and at times poorly planned.
+          Contribution: Shift week view, further develop the schedule view, increasing the view size, adding vacation/sick days, shift exchange between employes and more... 
+          Frotend stack: <mark>Preact</mark><mark>PHP</mark>
+          This was part of a larger project while still being large by itself. I mainly worked on this project as a frontend developer but were occasianlly involved in the backend, since our team were somewhat small (4) and varied. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, much more.      
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,9 +87,10 @@ content:
         quote: >
           The Norwegian Air Ambulance works to ensure that everyone who is acutely ill and seriously injured receives faster and more accurate medical help, no matter where in Norway they are
         description: | # this will include new lines to allow paragraphs
-            I have been working on multiple projects and tasks both inhouse and also for sister companies. From Full stack tasks to data processing and retrieval, to further improve or develop new applications and systems used by Norwegian Air Ambulance personnel, e.g. scheduling system. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, but also much more.
+            I have been working on multiple projects and tasks both inhouse and also for sister companies. From Full stack tasks to data processing and retrieval, to further improve or develop new applications and systems used by Norwegian Air Ambulance personnel, e.g. scheduling system. 
+            
             <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwindcss</mark> <mark>Redux</mark> 
-      
+      # The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, and much more.
       - layout: left
         title: Symantec AS
         link: https://securitycloud.symantec.com/cc/landing
@@ -101,6 +101,7 @@ content:
           The company provides cybersecurity software and services.
         description: | # this will include new lines to allow paragraphs
             I was mainly assigned as a frontend developer for their web application used by their analytical team.
+            
             <mark>React</mark> <mark>Go</mark> <mark>Redux</mark> <mark>Python</mark> 
        
       - layout: left
@@ -113,33 +114,39 @@ content:
           Merciv caters to the orientation & mobility needs of blind, deaf-blind and visually impaired communities around the globe.
         description: | # this will include new lines to allow paragraphs
             I was part of their frontend team in developing a new projec to help create a mobile application in react native. We were able to make a prototype within the time I was there and helped showcase it to investors.
+            
             <mark>React Native</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Master's degree in Informatics: programming and system architecture 
+        caption: 2013
+        sub_title: University of Oslo 
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Computer systems are part of all parts of society, and it is important that someone develops and maintains them, understands them and ensures that they are designed to maximize their benefit and that they are not abused.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I had a large variaty of subjects because I hadn't figured out what I wanted to do inside of the programming world, ended up doing a little of everthing. This lead to finding Gründerskolen which lead to 3 months internship in Toronto (one of the best decisions I have made while studying!).
+          One thing I was consistent with while taking my masters was the interest in Machine learning which lead to my master's thesis: "Machine Learning Prediction of Power Demand for Electrical Vehicle Charging Stations in Norway". Having a programming background I was not expecting machine learning to consist of so much data processing and data analysis, yet I had fun programming and experimenting with different machine learning techniques in python.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+        title: Bachelor's degree in Informatics: programming and system architecture
+        caption: 2013
+        sub_title: University of Oslo 
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvaking to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in system development some of my other interests and hobbies are:
+      - Martial arts
+      - Calisthenics
+      - Drawing/painting
+      - Hiking/road trips
 
 # Footer
 footer_show_references: true
