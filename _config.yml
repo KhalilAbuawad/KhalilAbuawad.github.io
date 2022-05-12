@@ -46,7 +46,7 @@ linkedin_username: khalil-abuawad
 
 # About Section
 # about_title: Profile
-about_profile_image: images/profile.jpg
+about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
   
   Hi, my name's Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS. I'm a diversely skilled team member with skills in <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>. I'm also an independent and creative decision maker. I like to be goal oriented while finding pleasure in the journey. 
