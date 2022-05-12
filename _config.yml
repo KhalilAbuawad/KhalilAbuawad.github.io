@@ -53,28 +53,28 @@ about_content: | # this will include new lines to allow paragraphs
   What I'm currently most fond of is: <mark>Frontend</mark>, <mark>Drawing</mark> and <mark>Body control</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Scheduling system
+  #- title: Projects # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: left
+  #      title: Scheduling system
         #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
+  #      additional_links:
           #- title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
           #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This project help me further improve my overall frontend skills because I was responsible for large portions of the development which were at times very challenging and new, but also because I got to work with an experienced frontend developer.
-        description: | # this will include new lines to allow paragraphs
-          Client: Norwegian Air Ambulance Helicopter AS
-          Results: Gives the planners a well defined scheduling tool.
-          Contribution: Further develop the schedule view, increasing the view size, adding vacation/sick days, call exchange between employes and more... 
-          Frotend stack: <mark>Preact</mark><mark>PHP</mark>
-          This was part of a larger project, but still large by itself. I mainly worked on this project as a frontend developer but were occasianlly involved in the backend, since our team were somewhat small (4) and varied. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, but also much more.      
+  #      quote: >
+  #        This project help me further improve my overall frontend skills because I was responsible for large portions of the development which were at times very challenging and new, but also because I got to work with an experienced frontend developer.
+  #      description: | # this will include new lines to allow paragraphs
+  #        Client: Norwegian Air Ambulance Helicopter AS
+  #        Results: Gives the planners a well defined scheduling tool.
+  #        Contribution: Further develop the schedule view, increasing the view size, adding vacation/sick days, call exchange between employes and more... 
+  #        Frotend stack: <mark>Preact</mark><mark>PHP</mark>
+  #        This was part of a larger project, but still large by itself. I mainly worked on this project as a frontend developer but were occasianlly involved in the backend, since our team were somewhat small (4) and varied. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, but also much more.      
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -88,7 +88,7 @@ content:
         quote: >
           The Norwegian Air Ambulance works to ensure that everyone who is acutely ill and seriously injured receives faster and more accurate medical help, no matter where in Norway they are
         description: | # this will include new lines to allow paragraphs
-            I have been working on multiple projects and tasks both inhouse and also for sister companies. From Full stack tasks to data processing and retrieval, to further improve or develop new applications and systems used by Norwegian Air Ambulance personnel.
+            I have been working on multiple projects and tasks both inhouse and also for sister companies. From Full stack tasks to data processing and retrieval, to further improve or develop new applications and systems used by Norwegian Air Ambulance personnel, e.g. scheduling system. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, but also much more.
             <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwindcss</mark> <mark>Redux</mark> 
       
       - layout: left
