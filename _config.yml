@@ -121,24 +121,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Master's degree in Informatics: programming and system architecture 
-        caption: 2013
-        sub_title: University of Oslo 
+        title: University of Oslo
+        caption: 2016 - 2018
+        sub_title: Computer Science
         quote: >
-          Computer systems are part of all parts of society, and it is important that someone develops and maintains them, understands them and ensures that they are designed to maximize their benefit and that they are not abused.
+          Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
         description: | # this will include new lines to allow paragraphs
-          I had a large variaty of subjects because I hadn't figured out what I wanted to do inside of the programming world, ended up doing a little of everthing. This lead to finding Gründerskolen which lead to 3 months internship in Toronto (one of the best decisions I have made while studying!).
-          One thing I was consistent with while taking my masters was the interest in Machine learning which lead to my master's thesis: "Machine Learning Prediction of Power Demand for Electrical Vehicle Charging Stations in Norway". Having a programming background I was not expecting machine learning to consist of so much data processing and data analysis, yet I had fun programming and experimenting with different machine learning techniques in python.
-
+          Started on a path towards masters degree, by taking individual subjects at the university during the given timeframe. Before I managed to start my master thesis I started in a fulltime job as a developer.
       - layout: left
-        title: Bachelor's degree in Informatics: programming and system architecture
-        caption: 2013
-        sub_title: University of Oslo 
-        #quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        #description: | # this will include new lines to allow paragraphs
-        #  During my time at Harvaking to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
+        title: University of Oslo
+        caption: 2012 - 2016
+        sub_title: BSc Computer Science
+        quote: >
+          Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
+        description: | # this will include new lines to allow paragraphs
+          The program includes theory and methods for programming both individual machines and machines in networks. One learns to create systems that are reliable, flexible, user-friendly and efficient. Practical solutions to problems are part of the education. One gains insight into the technology behind the computers, how the machine can be used to solve tasks and what challenges the information technology society gives us.
+          IT
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
