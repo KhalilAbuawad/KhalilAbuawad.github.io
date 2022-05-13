@@ -121,8 +121,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Master's degree in Informatics: programming and system architecture 
-        caption: 2016 - 2019
+        title: Masters degree in Informatics: programming and system architecture 
+        caption: 2019
         sub_title: University of Oslo
         quote: >
           Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
@@ -130,8 +130,8 @@ content:
           I had a large variaty of subjects because I hadn't figured out what I wanted to do inside of the programming world, ended up doing a little of everthing. This lead to finding Gründerskolen which lead to 3 months internship in Toronto (one of the best decisions I have made while studying!).
           One thing I was consistent with while taking my masters was the interest in Machine learning which lead to my master's thesis: "Machine Learning Prediction of Power Demand for Electrical Vehicle Charging Stations in Norway". Having a programming background I was not expecting machine learning to consist of so much data processing and data analysis, yet I had fun programming and experimenting with different machine learning techniques in python.
       - layout: left
-        title: Bachelor's degree in Informatics: programming and system architecture
-        caption: 2013 - 2016
+        title: Bachelors degree in Informatics: programming and system architecture
+        caption: 2016
         sub_title: University of Oslo
         quote: >
           Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
