@@ -67,13 +67,13 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This project help me further improve my overall frontend skills because I was responsible for large portions of the development which were at times very challenging and new, but also because I got to work with an experienced frontend developer.
+          This project helped me improve my overall frontend skills because I was responsible for large portions of the development which were at times very challenging and new to me, yet also because I got to work with an experienced frontend developer.
         description: | # this will include new lines to allow paragraphs
           Client: Norwegian Air Ambulance Helicopter AS
           Results: Planners currently get a good overview of the schedule of their personnel. The web application have some potential improvements like better and faster data retrival and better frontend stack, preact might have been a poor choice in hinesight. This was probably caused by there being no project leader for this project, thereby not gaining a good scope of the project and at times poorly planned.
-          Contribution: Shift week view, further develop the schedule view, increasing the view size, adding vacation/sick days, shift exchange between employes and more... 
-          Frotend stack: <mark>Preact</mark><mark>PHP</mark>
-          This was part of a larger project while still being large by itself. I mainly worked on this project as a frontend developer but were occasianlly involved in the backend, since our team were somewhat small (4) and varied. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, much more.      
+          Contribution: Shift week view, further development to the schedule view e.g. increasing the view size, adding vacation/sick days, shift exchange between employes and more... 
+          Frotend stack: <mark>Preact</mark><mark>Sass</mark><mark>Redux</mark><mark>PHP</mark>
+          This was part of a larger project while still being large by itself. I mainly worked on this project as a frontend developer but were occasianlly involved in the backend, since our team were somewhat small (2-4) and varied. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, and much more.      
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -87,9 +87,9 @@ content:
         quote: >
           The Norwegian Air Ambulance works to ensure that everyone who is acutely ill and seriously injured receives faster and more accurate medical help, no matter where in Norway they are
         description: | # this will include new lines to allow paragraphs
-            I have been working on multiple projects and tasks both inhouse and also for sister companies. From Full stack tasks to data processing and retrieval, to further improve or develop new applications and systems used by Norwegian Air Ambulance personnel, e.g. scheduling system. 
+            I have been working on multiple projects and tasks both inhouse and also for sister companies. From Full stack tasks to data processing and retrieval, to further improve and develop new applications used by Norwegian Air Ambulance personnel, e.g. scheduling system. 
             
-            <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwindcss</mark> <mark>Redux</mark> 
+            <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwindcss</mark> <mark>Redux</mark> <mark>SQL</mark>
       # The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, and much more.
       - layout: left
         title: Symantec AS
@@ -113,7 +113,7 @@ content:
         quote: >
           Merciv caters to the orientation & mobility needs of blind, deaf-blind and visually impaired communities around the globe.
         description: | # this will include new lines to allow paragraphs
-            I was part of their frontend team in developing a new projec to help create a mobile application in react native. We were able to make a prototype within the time I was there and helped showcase it to investors.
+            I was part of their frontend team in developing a new project to help create a mobile application in react native. The mobile application was going to be new "google maps" for people that have disabilities which google maps did't take into consideration with a gameification twist. We were able to make a prototype within the time I was there and helped showcase it to investors, and I was able to gain a good understanding of programming with accessibility, usability and inclusion in mind.
             
             <mark>React Native</mark>
 
