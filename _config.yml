@@ -73,7 +73,7 @@ content:
         
           Client: Norwegian Air Ambulance Helicopter AS
           
-          Results: Planners currently get a good overview of the schedule of their personnel. The web application have some potential improvements like better and faster data retrival and better frontend stack, preact might have been a poor choice in hinesight. This was probably caused by there being no project leader for this project, thereby not gaining a good scope of the project and at times poorly planned.
+          Results: Planners currently get a good overview of the schedule of their personnel. The web application have some potential improvements like better and faster data retrival and better frontend stack.
           
           Contribution: Shift week view, further development to the schedule view e.g. increasing the view size, adding vacation/sick days, shift exchange between employes and more... 
           
