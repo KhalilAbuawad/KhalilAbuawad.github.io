@@ -135,9 +135,9 @@ content:
         sub_title: University of Oslo
         quote: >
           Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
-        description: | # this will include new lines to allow paragraphs
-          The program includes theory and methods for programming both individual machines and machines in networks. One learns to create systems that are reliable, flexible, user-friendly and efficient. Practical solutions to problems are part of the education. One gains insight into the technology behind the computers, how the machine can be used to solve tasks and what challenges the information technology society gives us.
-          IT
+        #description: | # this will include new lines to allow paragraphs
+          #The program includes theory and methods for programming both individual machines and machines in networks. One learns to create systems that are reliable, flexible, user-friendly and efficient. Practical solutions to problems are part of the education. One gains insight into the technology behind the computers, how the machine can be used to solve tasks and what challenges the information technology society gives us.
+          #IT
           
   - title: A Little More About Me
     layout: text
