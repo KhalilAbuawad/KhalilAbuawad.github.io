@@ -49,7 +49,7 @@ linkedin_username: khalil-abuawad
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  Hi, my name's Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS. I'm a diversely skilled team member with skills in <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>. I'm also an independent and creative decision maker. I like to be goal oriented while finding pleasure in the journey. 
+  Hi, my name's Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS.  I am a great team member with a diverse range of skills, including <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>. I'm also an independent and creative decision maker who is goal orientated and finds pleasure in the journey.
 
 content:
   - title: Projects # Title for the section
@@ -67,15 +67,15 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This project helped me improve my overall frontend skills because I was responsible for large portions of the development which were at times very challenging and new to me, yet also because I got to work with an experienced frontend developer.
+          This project was a way for me to improve my frontend skills because I was responsible for large portions of the development. I was new to the process and, it was challenging at times, however I was able to work with an experienced frontend developer who was able to guide me in growing my skills.
         description: | # this will include new lines to allow paragraphs
-          This was part of a larger project while still being large by itself. I mainly worked on this project as a frontend developer but were occasianlly involved in the backend, since our team were somewhat small (2-4) and varied. The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, and much more.
+          The scheduling system was a significant part of a large project which I worked on as a frontend developer, occasionally helping out the backend team. The main objective of this project was to give the planners a scheduling tool and a way to get an overview of the situation. This tool provides the planners the ability to schedule assignments and responsibilities for professionals such as; pilots, medics and pararescue specialists.
         
           Client: Norwegian Air Ambulance Helicopter AS
           
-          Results: Planners currently get a good overview of the schedule of their personnel. The web application have some potential improvements like better and faster data retrival and better frontend stack.
+          Results: Planners receive a good overview of the schedule of their personnel. They have access to a calendar that provides both detailed and big picture view of the schedule.  
           
-          Contribution: Shift week view, further development to the schedule view e.g. increasing the view size, adding vacation/sick days, shift exchange between employes and more... 
+          Contribution: Weekly shift view, further development of the schedule view e.g. increasing the view size, adding vacation and sick days, and shift exchange between employees. 
           
           Frotend stack: <mark>Preact</mark><mark>Sass</mark><mark>Redux</mark><mark>PHP</mark>      
   
@@ -91,7 +91,7 @@ content:
         quote: >
           The Norwegian Air Ambulance works to ensure that everyone who is acutely ill and seriously injured receives faster and more accurate medical help, no matter where in Norway they are
         description: | # this will include new lines to allow paragraphs
-            I have been working on multiple projects and tasks both inhouse and also for sister companies. From Full stack tasks to data processing and retrieval, to further improve and develop new applications used by Norwegian Air Ambulance personnel, e.g. scheduling system. 
+            I have been working on multiple projects and tasks for both inhouse and sister companies. I worked on a range of full stack tasks to data processing and retrieval to further develop new applications used by Norwegian Air Ambulance personnel. 
             
             <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwindcss</mark> <mark>Redux</mark> <mark>SQL</mark>
       # The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, and much more.
@@ -104,7 +104,7 @@ content:
         quote: >
           The company provides cybersecurity software and services.
         description: | # this will include new lines to allow paragraphs
-            I was mainly assigned as a frontend developer for their web application used by their analytical team.
+            I was assigned as a frontend developer for their web application used by their analytical team. 
             
             <mark>React</mark> <mark>Go</mark> <mark>Redux</mark> <mark>Python</mark> 
        
@@ -117,7 +117,7 @@ content:
         quote: >
           Merciv caters to the orientation & mobility needs of blind, deaf-blind and visually impaired communities around the globe.
         description: | # this will include new lines to allow paragraphs
-            I was part of their frontend team in developing a new project to help create a mobile application in react native. The mobile application was going to be new "google maps" for people that have disabilities which google maps did't take into consideration with a gameification twist. We were able to make a prototype within the time I was there and helped showcase it to investors, and I was able to gain a good understanding of programming with accessibility, usability and inclusion in mind.
+            I was part of their frontend team in developing a new project to help create a mobile application in react native. The mobile application was to be directed towards people with disabilities to assist them in travel, much like Google Maps, but tailored to their needs. The application relies on the community to mark and post information about obstacles, such as benches. We were able to make a prototype within the time I was there and helped showcase it to investors. I gained a good understanding of programming with accessibility, usability and inclusion in mind.
             
             <mark>React Native</mark>
 
@@ -131,8 +131,7 @@ content:
         quote: >
           Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
         description: | # this will include new lines to allow paragraphs
-          I had a large variaty of subjects, making my background broad because I hadn't figured out what I wanted to do inside of the programming world, and ended up doing a little of everthing. This lead to finding Gründerskolen which then lead to 3 months of internship in Toronto (one of the best decisions I've made while studying!).
-          One subject that peaked my interest while taking my masters was Machine learning and renewable energy, which lead to my master's thesis: "Machine Learning Prediction of Power Demand for Electrical Vehicle Charging Stations in Norway". Having a programming background I was not expecting machine learning to consist of so much data processing and analysis, yet I had fun programming and experimenting with different machine learning techniques in python.
+          My study towards a Master's Degree ranged across a broad spectrum, taking upon a variety of subjects which directed me towards Gründerskolen. This then enabled me to attend a three month internship in Toronto in where I experienced the fast pace industry of startups. This experienced allowed me to develop both professionally and personally. Whilst taking my masters, I was intrigued by a subject called "Machine Learning and Renewable Energy" which inspired my master thesis: Machine Learning Prediction of Power Demand for Electrical Vehicle Charging Stations in Norway. Thorough research in my Master's degree taught me a lot about data processing and analysis within machine learning. Comming from a programming background I was not expecting machine learning to consist of so much data processing and analysis. However I enjoyed programming and experimenting with different machine learning techniques in python.
       - layout: left
         title: Bachelors degree in Informatics programming and system architecture
         caption: 2016
