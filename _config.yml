@@ -55,7 +55,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Scheduling system 
         #link: github.com/sproogen
         link_text: 2021 - 2022 (currently on hold)
