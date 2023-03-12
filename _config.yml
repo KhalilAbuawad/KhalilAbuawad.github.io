@@ -48,8 +48,13 @@ linkedin_username: khalil-abuawad
 # about_title: Profile
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  
-  Hi, my name's Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS.  I am a great team member with a diverse range of skills, including <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>. I'm also an independent and creative decision maker who is goal orientated and finds pleasure in the journey.
+  Hi, my name is Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS. I take great pride in being a valued team member with a wide range of skills and expertise. I specialize in <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, and <mark>redux-saga</mark>.
+
+  #As an independent and creative decision maker, I'm always focused on achieving my goals and finding innovative solutions to problems. I'm passionate about helping people, and I take the time to understand their needs and develop solutions that meet those needs.
+
+  #As a full-stack system developer, I'm always looking for ways to create solutions that I'm proud of and that benefit as many people as possible. I keep the end-users in mind at all times and work tirelessly to ensure that my work meets their needs.
+
+  #My positive and proactive approach to problem-solving means that I'm highly effective and efficient in my work, consistently delivering high-quality results. I'm always eager to learn and take on new challenges, which makes me a valuable asset to any team.
 
 content:
   - title: Projects # Title for the section
