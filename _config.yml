@@ -50,11 +50,11 @@ about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS. I take great pride in being a valued team member with a wide range of skills and expertise. I specialize in <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, and <mark>redux-saga</mark>.
 
-  #As an independent and creative decision maker, I'm always focused on achieving my goals and finding innovative solutions to problems. I'm passionate about helping people, and I take the time to understand their needs and develop solutions that meet those needs.
+  As an independent and creative decision maker, I'm always focused on achieving my goals and finding innovative solutions to problems. I'm passionate about helping people, and I take the time to understand their needs and develop solutions that meet those needs.
 
-  #As a full-stack system developer, I'm always looking for ways to create solutions that I'm proud of and that benefit as many people as possible. I keep the end-users in mind at all times and work tirelessly to ensure that my work meets their needs.
+  As a full-stack system developer, I'm always looking for ways to create solutions that I'm proud of and that benefit as many people as possible. I keep the end-users in mind at all times and work tirelessly to ensure that my work meets their needs.
 
-  #My positive and proactive approach to problem-solving means that I'm highly effective and efficient in my work, consistently delivering high-quality results. I'm always eager to learn and take on new challenges, which makes me a valuable asset to any team.
+  My positive and proactive approach to problem-solving means that I'm highly effective and efficient in my work, consistently delivering high-quality results. I'm always eager to learn and take on new challenges, which makes me a valuable asset to any team.
 
 content:
   - title: Projects # Title for the section
@@ -146,7 +146,37 @@ content:
         description: | # this will include new lines to allow paragraphs
           The program includes theory and methods for programming both individual machines and machines in networks. One learns to create systems that are reliable, flexible, user-friendly and efficient. Practical solutions to problems are part of the education. One gains insight into the technology behind the computers, how the machine can be used to solve tasks and what challenges the information technology society gives us.
           IT is more than a tool for other subjects. As an computer scientist, we are an active driving force in social development. One works with basic issues that provide new insights and opportunities throughout society, by helping creating new applications.
-          
+  
+  - title: Kurs
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Project leader (2021)
+      - Photography (2020)
+  
+  - title: Technological proficiency
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Methods:
+        - Kanban, Project lead, User stories, User testing
+
+      Tools:
+        - Jira, Bitbucket, Visual Studio Code, Phpstorm, Datagrip, IBM ACS, Git, Postman, Docker
+
+      Programming language:
+        - Javascript, Python, SQL, PHP, HTML, JSON, CSS, SCSS, R
+
+      Framework:
+        - React, Qwik, Remix
+
+      Libraries:
+        - Redux, Redux-saga, Tailwindcss, Webpack, Vite
+
+      Cloud:
+        - Azure
+
+      Database:
+        - DB2
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
