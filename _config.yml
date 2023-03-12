@@ -15,34 +15,8 @@ website: https://khalilabuawad.github.io/
 darkmode: false
 
 # Social links
-#twitter_username: facespics
 github_username:  KhalilAbuawad
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
 linkedin_username: khalil-abuawad
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: Profile
@@ -61,7 +35,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        section_title: Latsamband web application
+        title: Latsamband web application
         link_text: 2022 - 2023
         quote: >
           As the lead programmer of this project, I pushed myself to new heights of skill and expertise. I was responsible for the entire development process, from selecting the project stack to setting it up and implementing full-stack functionality. Initially, I worked on the project alone, but as it progressed, I assembled a team to support its continued growth and development. As the lead developer, I took on the responsibility of designing and developing the access system for the application. The goal was to ensure that users were granted appropriate access levels and provided with personalized web features based on their access rights.
@@ -76,7 +50,8 @@ content:
           
           Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
       
-        section_title: Flightcell
+      - layout: top-middle
+        title: Flightcell
         link_text: 2022 - 2023
         quote: >
           I acquired a deeper comprehension of Python programming after building a TCP/IP server from scratch. In addition, I gained insight into Docker and its potential to enhance a project's resilience by enabling it to self-configure and operate autonomously.  
@@ -90,8 +65,9 @@ content:
           Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
 
           Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
-
-        section_title: Scheduling system 
+      
+      - layout: top-middle
+        title: Scheduling system 
         link_text: 2021 - 2022
         quote: >
           This project was a way for me to improve my frontend skills because I was responsible for large portions of the development. I was new to the process and, it was challenging at times, however I was able to work with an experienced frontend developer who was able to guide me in growing my skills.
