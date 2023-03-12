@@ -62,15 +62,7 @@ content:
     content:
       - layout: top-middle
         title: Latsamband web application
-        #link: github.com/sproogen
         link_text: 2022 - 2023
-  #      additional_links:
-          #- title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-          #  url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           As the lead programmer of this project, I pushed myself to new heights of skill and expertise. I was responsible for the entire development process, from selecting the project stack to setting it up and implementing full-stack functionality. Initially, I worked on the project alone, but as it progressed, I assembled a team to support its continued growth and development. As the lead developer, I took on the responsibility of designing and developing the access system for the application. The goal was to ensure that users were granted appropriate access levels and provided with personalized web features based on their access rights.
         description: | # this will include new lines to allow paragraphs
@@ -84,50 +76,34 @@ content:
           
           Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
       
-         title: Flightcell
-          #link: github.com/sproogen
-          link_text: 2022 - 2023
-    #      additional_links:
-            #- title:  sproogen/modern-resume-theme
-            #  icon: fab fa-github
-            #  url: github.com/sproogen/modern-resume-theme
-            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #   icon: fab fa-github
-            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-          quote: >
-            I acquired a deeper comprehension of Python programming after building a TCP/IP server from scratch. In addition, I gained insight into Docker and its potential to enhance a project's resilience by enabling it to self-configure and operate autonomously.  
-          description: | # this will include new lines to allow paragraphs
-            The objective of this project is to transmit all current helicopter events, including positional data and other events, to a database. To achieve this, the project leverages TCP/IP to capture messages-over-IP originating from DZMx devices situated within the helicopters. By utilizing Docker, the project is automated and reinforced to ensure its smooth setup and operation.
-            
-            Client: Norwegian Air Ambulance AS
+        title: Flightcell
+        link_text: 2022 - 2023
+        quote: >
+          I acquired a deeper comprehension of Python programming after building a TCP/IP server from scratch. In addition, I gained insight into Docker and its potential to enhance a project's resilience by enabling it to self-configure and operate autonomously.  
+        description: | # this will include new lines to allow paragraphs
+          The objective of this project is to transmit all current helicopter events, including positional data and other events, to a database. To achieve this, the project leverages TCP/IP to capture messages-over-IP originating from DZMx devices situated within the helicopters. By utilizing Docker, the project is automated and reinforced to ensure its smooth setup and operation.
 
-            Results: Responsive, informative, beautiful design, interactive, personalized web application.
+          Client: Norwegian Air Ambulance AS
 
-            Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
+          Results: Responsive, informative, beautiful design, interactive, personalized web application.
 
-            Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
-       
+          Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
+
+          Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
+
         title: Scheduling system 
-        #link: github.com/sproogen
         link_text: 2021 - 2022
-  #      additional_links:
-          #- title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-          #  url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This project was a way for me to improve my frontend skills because I was responsible for large portions of the development. I was new to the process and, it was challenging at times, however I was able to work with an experienced frontend developer who was able to guide me in growing my skills.
         description: | # this will include new lines to allow paragraphs
           The scheduling system was a significant part of a large project which I worked on as a frontend developer, occasionally helping out the backend team. The main objective of this project was to give the planners a scheduling tool and a way to get an overview of the situation. This tool provides the planners the ability to schedule assignments and responsibilities for professionals such as; pilots, medics and pararescue specialists.
-        
+
           Client: Norwegian Air Ambulance Helicopter AS
-          
+
           Results: Planners receive a good overview of the schedule of their personnel. They have access to a calendar that provides both detailed and big picture view of the schedule.  
-          
+
           Contribution: Weekly shift view, further development of the schedule view e.g. increasing the view size, adding vacation and sick days, and shift exchange between employees. 
-          
+
           Frotend stack: <mark>Preact</mark><mark>Sass</mark><mark>Redux</mark><mark>PHP</mark>      
   
   - title: Experience # Title for the section
