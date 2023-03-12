@@ -84,6 +84,29 @@ content:
           
           Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
       
+         title: Flightcell
+          #link: github.com/sproogen
+          link_text: 2022 - 2023
+    #      additional_links:
+            #- title:  sproogen/modern-resume-theme
+            #  icon: fab fa-github
+            #  url: github.com/sproogen/modern-resume-theme
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            I acquired a deeper comprehension of Python programming after building a TCP/IP server from scratch. In addition, I gained insight into Docker and its potential to enhance a project's resilience by enabling it to self-configure and operate autonomously.  
+          description: | # this will include new lines to allow paragraphs
+            This project is for transmitting incoming heli-data (position data, events, etc.) to the database. The project uses TCP/IP to intercept messages-over-ip from DZMx devices located inside the helicopters, 
+            
+            Client: Norwegian Air Ambulance AS
+
+            Results: Responsive, informative, beautiful design, interactive, personalized web application.
+
+            Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
+
+            Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
+       
         title: Scheduling system 
         #link: github.com/sproogen
         link_text: 2021 - 2022
@@ -145,7 +168,11 @@ content:
         quote: >
           Merciv caters to the orientation & mobility needs of blind, deaf-blind and visually impaired communities around the globe.
         description: | # this will include new lines to allow paragraphs
-            I was part of their frontend team in developing a new project to help create a mobile application in react native. The mobile application was to be directed towards people with disabilities to assist them in travel, much like Google Maps, but tailored to their needs. The application relies on the community to mark and post information about obstacles, such as benches. We were able to make a prototype within the time I was there and helped showcase it to investors. I gained a good understanding of programming with accessibility, usability and inclusion in mind.
+            Working as part of the frontend team on a new project in Toronto was an incredible experience that pushed me to new heights of skill and expertise. It was thrilling to be immersed in the startup environment of the city, which has been called the "new Silicon Valley." The speed of the industry there was intense, and I loved every moment of it.
+
+            Our project was to develop a mobile application in React Native that was tailored to the needs of people with disabilities, with a focus on assisting them in travel, much like Google Maps. Our approach relied on the community to mark and post information about obstacles, such as benches. I was fortunate enough to work alongside experienced developers, including an accomplished UX designer and a blind accessibility expert, which helped me to gain a deeper understanding of programming with accessibility, usability, and inclusion in mind.
+
+            During my time there, we were working towards creating a MVP that we could showcase to potential investors. We were successful in our efforts, and we celebrated by going to a Kevin Hart live show! Overall, my experience in Toronto was unforgettable and taught me so much about the industry and the importance of designing with diversity and inclusion in mind.
             
             <mark>React Native</mark>
 
