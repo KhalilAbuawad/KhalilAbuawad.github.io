@@ -152,7 +152,7 @@ content:
   - title: Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Project leader (2021)
+      - Project leadership (2021)
       - Photography (2020)
   
   - title: Technological proficiency
