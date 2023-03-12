@@ -61,9 +61,32 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Latsamband web application
+        #link: github.com/sproogen
+        link_text: 2022 - 2023
+  #      additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          As the lead programmer of this project, I pushed myself to new heights of skill and expertise. I was responsible for the entire development process, from selecting the project stack to setting it up and implementing full-stack functionality. Initially, I worked on the project alone, but as it progressed, I assembled a team to support its continued growth and development. As the lead developer, I took on the responsibility of designing and developing the access system for the application. The goal was to ensure that users were granted appropriate access levels and provided with personalized web features based on their access rights.
+        description: | # this will include new lines to allow paragraphs
+          Latsamband is an innovative addition to the existing mobile application, Latsamband, utilized by NLA's workforce. This web-based platform offers employees a convenient alternative to completing tedious tasks on their mobile devices. It provides a comprehensive and efficient overview of their tasks and contributions, allowing them to add additional information when necessary. The application features a customizable dashboard, which displays pertinent information regarding their progress and status, including the ability to register new missions and modify existing ones, browse through missions with a personalized view, and register for courses. Furthermore, this application keeps employees on track and aids them in following through their workdays by providing notifications for current tasks.
+        
+          Client: Norwegian Air Ambulance AS
+          
+          Results: Responsive, informative, beautiful design, interactive, personalized web application.
+          
+          Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
+          
+          Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
+      
         title: Scheduling system 
         #link: github.com/sproogen
-        link_text: 2021 - 2022 (currently on hold)
+        link_text: 2021 - 2022
   #      additional_links:
           #- title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
@@ -147,7 +170,7 @@ content:
           The program includes theory and methods for programming both individual machines and machines in networks. One learns to create systems that are reliable, flexible, user-friendly and efficient. Practical solutions to problems are part of the education. One gains insight into the technology behind the computers, how the machine can be used to solve tasks and what challenges the information technology society gives us.
           IT is more than a tool for other subjects. As an computer scientist, we are an active driving force in social development. One works with basic issues that provide new insights and opportunities throughout society, by helping creating new applications.
   
-  - title: Kurs
+  - title: Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Project leader (2021)
@@ -166,10 +189,10 @@ content:
         - Javascript, Python, SQL, PHP, HTML, JSON, CSS, SCSS, R
 
       Framework:
-        - React, Qwik, Remix
+        - React, Preact, Redux, Redux-saga, Tailwindcss, and React Native
 
       Libraries:
-        - Redux, Redux-saga, Tailwindcss, Webpack, Vite
+        - Webpack, Vite, Babel
 
       Cloud:
         - Azure
