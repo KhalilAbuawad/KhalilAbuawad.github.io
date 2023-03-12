@@ -55,13 +55,13 @@ content:
         title: Flightcell
         link_text: 2022 - 2023
         quote: >
-          I acquired a deeper comprehension of Python programming after building a TCP/IP server from scratch. In addition, I gained insight into Docker and its potential to enhance a project's resilience by enabling it to self-configure and operate autonomously.  
+          I acquired a deeper comprehension of Python programming after building a TCP/IP server from scratch. In addition, I gained insight into Docker and its potential to enhance a project's resilience by enabling it to self-configure and operate autonomously. The project also taught me more about data analytics for the purpose of data quality.
         description: | # this will include new lines to allow paragraphs
           The objective of this project is to transmit all current helicopter events, including positional data and other events, to a database. To achieve this, the project leverages TCP/IP to capture messages-over-IP originating from DZMx devices situated within the helicopters. By utilizing Docker, the project is automated and reinforced to ensure its smooth setup and operation.
 
           Client: Norwegian Air Ambulance AS
 
-          Results: Responsive, informative, beautiful design, interactive, personalized web application.
+          Results: Very resiliant data fetching server with no maintance.
 
           Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
 
