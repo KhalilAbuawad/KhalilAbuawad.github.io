@@ -1,0 +1,204 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Khalil Abuawad
+title: System developer
+email: khalil_abuawad@hotmail.com
+website: https://khalilabuawad.github.io/
+phone: 45280974
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username:  KhalilAbuawad
+linkedin_username: khalil-abuawad
+
+# About Section
+# about_title: Profile
+about_profile_image: images/profilepic.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS. I am an experienced Software developer and take great pride in being a valued team member with a wide range of skills and expertise. I specialize in <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, and <mark>redux-saga</mark>.
+
+  As an independent and creative decision maker, I'm always focused on achieving my goals and finding innovative solutions to problems. I'm passionate about helping people, and I take the time to understand their needs and develop solutions that meet those needs.
+
+  As a full-stack system developer, I'm always looking for ways to create solutions that I'm proud of and that benefit as many people as possible. I keep the end-users in mind at all times and work tirelessly to ensure that my work meets their needs.
+
+  My positive and proactive approach to problem-solving means that I'm highly effective and efficient in my work, consistently delivering high-quality results. I'm always eager to learn and take on new challenges, which makes me a valuable asset to any team.
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Latsamband web application
+        link_text: 2022 - 2023
+        quote: >
+          As the lead programmer of this project, I pushed myself to new heights of skill and expertise. I was responsible for the entire development process, from selecting the project stack to setting it up and implementing full-stack functionality. Initially, I worked on the project alone, but as it progressed, I assembled a team to support its continued growth and development. As the lead developer, I took on the responsibility of designing and developing the access system for the application. The goal was to ensure that users were granted appropriate access levels and provided with personalized web features based on their access rights.
+        description: | # this will include new lines to allow paragraphs
+          Latsamband is an innovative addition to the existing mobile application, Latsamband, utilized by NLA's workforce. This web-based platform offers employees a convenient alternative to completing tedious tasks on their mobile devices. It provides a comprehensive and efficient overview of their tasks and contributions, allowing them to add additional information when necessary. The application features a customizable dashboard, which displays pertinent information regarding their progress and status, including the ability to register new missions and modify existing ones, browse through missions with a personalized view, and register for courses. Furthermore, this application keeps employees on track and aids them in following through their workdays by providing notifications for current tasks.
+        
+          Client: Norwegian Air Ambulance AS
+          
+          Results: Responsive, informative, beautiful design, interactive, personalized web application.
+          
+          Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
+          
+          Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
+      
+      - layout: top-middle
+        title: Flightcell
+        link_text: 2022 - 2023
+        quote: >
+          I acquired a deeper comprehension of Python programming after building a TCP/IP server from scratch. In addition, I gained insight into Docker and its potential to enhance a project's resilience by enabling it to self-configure and operate autonomously. The project also taught me more about data analytics for the purpose of data quality.
+        description: | # this will include new lines to allow paragraphs
+          The objective of this project is to transmit all current helicopter events, including positional data and other events, to a database. To achieve this, the project leverages TCP/IP to capture messages-over-IP originating from DZMx devices situated within the helicopters. By utilizing Docker, the project is automated and reinforced to ensure its smooth setup and operation.
+
+          Client: Norwegian Air Ambulance AS
+
+          Results: Very resiliant data fetching server with no maintance.
+
+          Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
+
+          Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
+      
+      - layout: top-middle
+        title: Scheduling system 
+        link_text: 2021 - 2022
+        quote: >
+          This project was a way for me to improve my frontend skills because I was responsible for large portions of the development. I was new to the process and, it was challenging at times, however I was able to work with an experienced frontend developer who was able to guide me in growing my skills.
+        description: | # this will include new lines to allow paragraphs
+          The scheduling system was a significant part of a large project which I worked on as a frontend developer, occasionally helping out the backend team. The main objective of this project was to give the planners a scheduling tool and a way to get an overview of the situation. This tool provides the planners the ability to schedule assignments and responsibilities for professionals such as; pilots, medics and pararescue specialists.
+
+          Client: Norwegian Air Ambulance Helicopter AS
+
+          Results: Planners receive a good overview of the schedule of their personnel. They have access to a calendar that provides both detailed and big picture view of the schedule.  
+
+          Contribution: Weekly shift view, further development of the schedule view e.g. increasing the view size, adding vacation and sick days, and shift exchange between employees. 
+
+          Frotend stack: <mark>Preact</mark><mark>Sass</mark><mark>Redux</mark><mark>PHP</mark>      
+  
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Norwegian Air Ambulance Technology AS
+        link: https://norskluftambulanse.no/
+        # link_text: boringcompany.com
+        sub_title: System developer
+        caption: April 2020 - Present
+        quote: >
+          The Norwegian Air Ambulance works to ensure that everyone who is acutely ill and seriously injured receives faster and more accurate medical help, no matter where in Norway they are
+        description: | # this will include new lines to allow paragraphs
+            I have been working on multiple projects and tasks for both inhouse and sister companies. I worked on a range of full stack tasks to data processing and retrieval to further develop new applications used by Norwegian Air Ambulance personnel. 
+            
+            <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwindcss</mark> <mark>Redux</mark> <mark>SQL</mark>
+      # The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, and much more.
+      - layout: left
+        title: Symantec AS
+        link: https://securitycloud.symantec.com/cc/landing
+        # link_text: boringcompany.com
+        sub_title: Computer software engineer 
+        caption: June 2017 - September 2019
+        quote: >
+          The company provides cybersecurity software and services.
+        description: | # this will include new lines to allow paragraphs
+            I was assigned as a frontend developer for their web application used by their analytical team. 
+            
+            <mark>React</mark> <mark>Go</mark> <mark>Redux</mark> <mark>Python</mark> 
+       
+      - layout: left
+        title: iMerciv Inc
+        link: https://www.imerciv.com/
+        # link_text: boringcompany.com
+        sub_title: Frontend developer
+        caption: June 2018 - August 2018
+        quote: >
+          Merciv caters to the orientation & mobility needs of blind, deaf-blind and visually impaired communities around the globe.
+        description: | # this will include new lines to allow paragraphs
+            Working as part of the frontend team on a new project in Toronto was an incredible experience that pushed me to new heights of skill and expertise. It was thrilling to be immersed in the startup environment of the city, which has been called the "new Silicon Valley." The speed of the industry there was intense, and I loved every moment of it.
+
+            Our project was to develop a mobile application in React Native that was tailored to the needs of people with disabilities, with a focus on assisting them in travel, much like Google Maps. Our approach relied on the community to mark and post information about obstacles, such as benches. I was fortunate enough to work alongside experienced developers, including an accomplished UX designer and a blind accessibility expert, which helped me to gain a deeper understanding of programming with accessibility, usability, and inclusion in mind.
+
+            During my time there, we were working towards creating a MVP that we could showcase to potential investors. We were successful in our efforts, and we celebrated by going to a Kevin Hart live show! Overall, my experience in Toronto was unforgettable and taught me so much about the industry and the importance of designing with diversity and inclusion in mind.
+            
+            <mark>React Native</mark>
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Masters degree in Informatics programming and system architecture 
+        caption: 2019
+        sub_title: University of Oslo
+        quote: >
+          Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
+        description: | # this will include new lines to allow paragraphs
+          My study towards a Master's Degree ranged across a broad spectrum, taking upon a variety of subjects which directed me towards Gründerskolen. This then enabled me to attend a three month internship in Toronto in where I experienced the fast pace industry of startups. This experienced allowed me to develop both professionally and personally. Whilst taking my masters, I was intrigued by a subject called "Machine Learning and Renewable Energy" which inspired my master thesis: Machine Learning Prediction of Power Demand for Electrical Vehicle Charging Stations in Norway. Thorough research in my Master's degree taught me a lot about data processing and analysis within machine learning. Coming from a programming background I was not expecting machine learning to consist of so much data processing and analysis. I enjoyed programming and experimenting with different machine learning techniques in python.
+      - layout: left
+        title: Bachelors degree in Informatics programming and system architecture
+        caption: 2016
+        sub_title: University of Oslo
+        quote: >
+          Established in 1811, UiO is the oldest higher education institution in Norway, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in the Nordic countries.
+        description: | # this will include new lines to allow paragraphs
+          The program includes theory and methods for programming both individual machines and machines in networks. One learns to create systems that are reliable, flexible, user-friendly and efficient. Practical solutions to problems are part of the education. One gains insight into the technology behind the computers, how the machine can be used to solve tasks and what challenges the information technology society gives us.
+          IT is more than a tool for other subjects. As an computer scientist, we are an active driving force in social development. One works with basic issues that provide new insights and opportunities throughout society, by helping creating new applications.
+  
+  - title: Courses
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Project leadership (2021)
+      - Photography (2020)
+  
+  - title: Technological proficiency
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Methods:
+        - Kanban, Project lead, User stories, User testing
+
+      Tools:
+        - Jira, Bitbucket, Visual Studio Code, Phpstorm, Datagrip, IBM ACS, Git, Postman, Docker
+
+      Programming language:
+        - Javascript, Python, SQL, PHP, HTML, JSON, CSS, SCSS, R
+
+      Framework:
+        - React, Preact, Redux, Redux-saga, Tailwindcss, and React Native
+
+      Libraries:
+        - Webpack, Vite, Babel
+
+      Cloud:
+        - Azure
+
+      Database:
+        - DB2
+  
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in system development some of my other interests and hobbies are:
+      - Martial arts
+      - Calisthenics
+      - Drawing/painting
+      - Hiking/road trips
+
+# Footer
+footer_show_references: true
+references_title: References on request
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
