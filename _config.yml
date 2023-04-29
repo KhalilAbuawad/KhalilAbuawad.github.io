@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Khalil Abuawad
-title: System developer
+title: Systemutvikler
 email: khalil_abuawad@hotmail.com
 website: https://khalilabuawad.github.io/
 phone: 45280974
@@ -23,11 +23,9 @@ linkedin_username: khalil-abuawad
 # about_title: Profile
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hei, mitt navn er Khalil, og jeg er en systemutvikler hos Norsk Luftambulanse Teknologi AS. Jeg er en erfaren programvareutvikler og tar stor stolthet i å være et verdsatt lagmedlem med et bredt spekter av ferdigheter og ekspertise. Jeg spesialiserer meg innen React <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, og <mark>redux-saga</mark>.
+  Hei, mitt navn er Khalil, og jeg er en systemutvikler hos Norsk Luftambulanse Teknologi AS. Jeg er en erfaren fullstack-utvikler og tar stor stolthet i å være et verdsatt lagmedlem med et bredt spekter av ferdigheter og ekspertise. Jeg spesialiserer meg innen <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, og <mark>redux-saga</mark>.
 
   Som en uavhengig og kreativ beslutningstaker er jeg alltid fokusert på å nå målene mine og finne innovative løsninger på problemer. Jeg er lidenskapelig opptatt av å hjelpe mennesker, og jeg tar meg tid til å forstå deres behov og utvikle løsninger som møter disse behovene.
-
-  Som en full-stack systemutvikler er jeg alltid på jakt etter måter å skape løsninger som jeg er stolt av og som gagner så mange mennesker som mulig. Jeg har sluttbrukerne i tankene til enhver tid og arbeider utrettelig for å sikre at arbeidet mitt oppfyller deres behov.
 
   Min positive og proaktive tilnærming til problemløsning betyr at jeg er svært effektiv og dyktig i arbeidet mitt, og leverer konsekvent resultater av høy kvalitet. Jeg er alltid ivrig etter å lære og ta fatt på nye utfordringer, noe som gjør meg til en verdifull ressurs for ethvert team.
 
@@ -39,15 +37,15 @@ content:
         title: Latsamband web applikasjon
         link_text: 2022 - 2023
         quote: >
-          Som hovedprogrammerer for dette prosjektet, presset jeg meg selv til nye høyder av ferdigheter og ekspertise. Jeg var ansvarlig for hele utviklingsprosessen, fra å velge prosjektstakken til å sette den opp og implementere full-stack funksjonalitet. I begynnelsen jobbet jeg på prosjektet alene, men etter hvert som det utviklet seg, samlet jeg et team for å støtte den fortsatte veksten og utviklingen. Som hovedutvikler tok jeg på meg ansvaret for å designe og utvikle tilgangssystemet for applikasjonen. Målet var å sikre at brukerne fikk passende tilgangsnivåer og ble tilbudt personlige nettfunksjoner basert på deres tilgangsrettigheter.
+          Som hovedprogrammerer for dette prosjektet, presset jeg meg selv til nye høyder av ferdigheter og ekspertise. Jeg var ansvarlig for hele utviklingsprosessen, fra å velge prosjektstakken til å sette den opp og implementere full-stack funksjonalitet. I begynnelsen jobbet jeg på prosjektet alene, men etter hvert som det utviklet seg, samlet jeg et team for å støtte den fortsatte veksten og utviklingen. Jeg hadde også hovedansvaret for å designe og utvikle tilgangssystemet for applikasjonen. Målet var å sikre at brukerne fikk passende tilgangsnivåer og ble tilbudt personlige nettfunksjoner basert på deres tilgangsrettigheter.
         description: | # this will include new lines to allow paragraphs
-          Latsamband er en innovativ tillegg til den eksisterende mobilapplikasjonen, Latsamband, som brukes av NLAs arbeidsstyrke. Denne nettbaserte plattformen tilbyr ansatte et praktisk alternativ til å utføre kjedelige oppgaver på sine mobile enheter. Den gir en omfattende og effektiv oversikt over deres oppgaver og bidrag, og lar dem legge til ytterligere informasjon når det er nødvendig. Applikasjonen inneholder et tilpassbart dashboard, som viser relevant informasjon om deres fremgang og status, inkludert muligheten til å registrere nye oppdrag og endre eksisterende, bla gjennom oppdrag med en personlig visning og melde seg på kurs. Videre hjelper denne applikasjonen ansatte å holde seg på sporet og støtter dem i å følge opp arbeidsdagen ved å gi varsler for nåværende oppgaver.
+          Latsamband er en innovativ tillegg til den eksisterende mobilapplikasjonen, også kalt Latsamband, som brukes av NLAs arbeidsstyrke. Denne nettbaserte plattformen tilbyr ansatte et praktisk alternativ til å utføre kjedelige oppgaver på sine mobile enheter. Den gir en omfattende og effektiv oversikt over deres oppgaver og bidrag, og lar dem legge til ytterligere informasjon når det er nødvendig. Applikasjonen inneholder et tilpassbart dashboard, som viser relevant informasjon om deres fremgang og status, inkludert muligheten til å registrere nye oppdrag og endre eksisterende, bla gjennom oppdrag med en personlig visning og melde seg på kurs. Videre hjelper denne applikasjonen ansatte å holde seg på sporet og støtter dem i å følge opp arbeidsdagen ved å gi varsler for nåværende oppgaver.
         
           Kunde: Norsk Luftambulanse AS
           
           Resultat: Responsiv, informativ, vakkert design, interaktiv, personlig tilpasset nettapplikasjon.
           
-          Bidrag: Lagringstedoppsett, stack-oppsett, prosjektoppsett, utviklingsoppsett, produksjonsoppsett, alle komponenter inkludert: flere startside-sider, oversikt over registrerte oppdrag, oppdragsdetaljside, delt visningsalternativ.
+          Bidrag: Lagringsted(store), stack-oppsett, prosjektoppsett, utviklingsoppsett, produksjonsoppsett, komponenter: flere startside-sider, oversikt over registrerte oppdrag, oppdragsdetaljside, delt visningsalternativ.
           
           Teknologi-stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
       
