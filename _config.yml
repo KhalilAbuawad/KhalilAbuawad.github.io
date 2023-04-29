@@ -23,31 +23,31 @@ linkedin_username: khalil-abuawad
 # about_title: Profile
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Khalil and I'm a system developer at Norwegian Air Ambulance Technology AS. I am an experienced Software developer and take great pride in being a valued team member with a wide range of skills and expertise. I specialize in <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, and <mark>redux-saga</mark>.
+  Hei, mitt navn er Khalil, og jeg er en systemutvikler hos Norsk Luftambulanse Teknologi AS. Jeg er en erfaren programvareutvikler og tar stor stolthet i å være et verdsatt lagmedlem med et bredt spekter av ferdigheter og ekspertise. Jeg spesialiserer meg innen React <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, og <mark>redux-saga</mark>.
 
-  As an independent and creative decision maker, I'm always focused on achieving my goals and finding innovative solutions to problems. I'm passionate about helping people, and I take the time to understand their needs and develop solutions that meet those needs.
+  Som en uavhengig og kreativ beslutningstaker er jeg alltid fokusert på å nå målene mine og finne innovative løsninger på problemer. Jeg er lidenskapelig opptatt av å hjelpe mennesker, og jeg tar meg tid til å forstå deres behov og utvikle løsninger som møter disse behovene.
 
-  As a full-stack system developer, I'm always looking for ways to create solutions that I'm proud of and that benefit as many people as possible. I keep the end-users in mind at all times and work tirelessly to ensure that my work meets their needs.
+  Som en full-stack systemutvikler er jeg alltid på jakt etter måter å skape løsninger som jeg er stolt av og som gagner så mange mennesker som mulig. Jeg har sluttbrukerne i tankene til enhver tid og arbeider utrettelig for å sikre at arbeidet mitt oppfyller deres behov.
 
-  My positive and proactive approach to problem-solving means that I'm highly effective and efficient in my work, consistently delivering high-quality results. I'm always eager to learn and take on new challenges, which makes me a valuable asset to any team.
+  Min positive og proaktive tilnærming til problemløsning betyr at jeg er svært effektiv og dyktig i arbeidet mitt, og leverer konsekvent resultater av høy kvalitet. Jeg er alltid ivrig etter å lære og ta fatt på nye utfordringer, noe som gjør meg til en verdifull ressurs for ethvert team.
 
 content:
-  - title: Projects # Title for the section
+  - title: Prosjekter # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Latsamband web application
+        title: Latsamband web applikasjon
         link_text: 2022 - 2023
         quote: >
-          As the lead programmer of this project, I pushed myself to new heights of skill and expertise. I was responsible for the entire development process, from selecting the project stack to setting it up and implementing full-stack functionality. Initially, I worked on the project alone, but as it progressed, I assembled a team to support its continued growth and development. As the lead developer, I took on the responsibility of designing and developing the access system for the application. The goal was to ensure that users were granted appropriate access levels and provided with personalized web features based on their access rights.
+          Som hovedprogrammerer for dette prosjektet, presset jeg meg selv til nye høyder av ferdigheter og ekspertise. Jeg var ansvarlig for hele utviklingsprosessen, fra å velge prosjektstakken til å sette den opp og implementere full-stack funksjonalitet. I begynnelsen jobbet jeg på prosjektet alene, men etter hvert som det utviklet seg, samlet jeg et team for å støtte den fortsatte veksten og utviklingen. Som hovedutvikler tok jeg på meg ansvaret for å designe og utvikle tilgangssystemet for applikasjonen. Målet var å sikre at brukerne fikk passende tilgangsnivåer og ble tilbudt personlige nettfunksjoner basert på deres tilgangsrettigheter.
         description: | # this will include new lines to allow paragraphs
-          Latsamband is an innovative addition to the existing mobile application, Latsamband, utilized by NLA's workforce. This web-based platform offers employees a convenient alternative to completing tedious tasks on their mobile devices. It provides a comprehensive and efficient overview of their tasks and contributions, allowing them to add additional information when necessary. The application features a customizable dashboard, which displays pertinent information regarding their progress and status, including the ability to register new missions and modify existing ones, browse through missions with a personalized view, and register for courses. Furthermore, this application keeps employees on track and aids them in following through their workdays by providing notifications for current tasks.
+          Latsamband er en innovativ tillegg til den eksisterende mobilapplikasjonen, Latsamband, som brukes av NLAs arbeidsstyrke. Denne nettbaserte plattformen tilbyr ansatte et praktisk alternativ til å utføre kjedelige oppgaver på sine mobile enheter. Den gir en omfattende og effektiv oversikt over deres oppgaver og bidrag, og lar dem legge til ytterligere informasjon når det er nødvendig. Applikasjonen inneholder et tilpassbart dashboard, som viser relevant informasjon om deres fremgang og status, inkludert muligheten til å registrere nye oppdrag og endre eksisterende, bla gjennom oppdrag med en personlig visning og melde seg på kurs. Videre hjelper denne applikasjonen ansatte å holde seg på sporet og støtter dem i å følge opp arbeidsdagen ved å gi varsler for nåværende oppgaver.
         
-          Client: Norwegian Air Ambulance AS
+          Client: Norsk Luftambulanse AS
           
-          Results: Responsive, informative, beautiful design, interactive, personalized web application.
+          Results: Responsiv, informativ, vakkert design, interaktiv, personlig tilpasset nettapplikasjon.
           
-          Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
+          Contribution: Lagringstedoppsett, stack-oppsett, prosjektoppsett, utviklingsoppsett, produksjonsoppsett, alle komponenter inkludert: flere startside-sider, oversikt over registrerte oppdrag, oppdragsdetaljside, delt visningsalternativ.
           
           Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
       
@@ -55,31 +55,31 @@ content:
         title: Flightcell
         link_text: 2022 - 2023
         quote: >
-          I acquired a deeper comprehension of Python programming after building a TCP/IP server from scratch. In addition, I gained insight into Docker and its potential to enhance a project's resilience by enabling it to self-configure and operate autonomously. The project also taught me more about data analytics for the purpose of data quality.
+          Jeg oppnådde en dypere forståelse av Python-programmering etter å ha bygget en TCP/IP-server fra bunnen av. I tillegg fikk jeg innsikt i Docker og dets potensiale for å styrke et prosjekts robusthet ved å muliggjøre selvkonfigurering og autonom drift. Prosjektet lærte meg også mer om dataanalyse for å forbedre datakvaliteten.
         description: | # this will include new lines to allow paragraphs
-          The objective of this project is to transmit all current helicopter events, including positional data and other events, to a database. To achieve this, the project leverages TCP/IP to capture messages-over-IP originating from DZMx devices situated within the helicopters. By utilizing Docker, the project is automated and reinforced to ensure its smooth setup and operation.
+          Målet med dette prosjektet er å overføre alle nåværende helikopterhendelser, inkludert posisjonsdata og andre hendelser, til en database. For å oppnå dette, benytter prosjektet TCP/IP for å fange meldinger-over-IP som kommer fra DZMx-enheter plassert i helikoptrene. Ved å bruke Docker, er prosjektet automatisert og forsterket for å sikre en problemfri oppsett og drift.
 
-          Client: Norwegian Air Ambulance AS
+          Client: Norsk Luftambulanse AS
 
-          Results: Very resiliant data fetching server with no maintance.
+          Results: Svært motstandsdyktig server for datahenting uten vedlikeholdsbehov.
 
-          Contribution: Store setup, stack setup, project setup, development setup, production setup, all components including: multiple landing pages, overview of missions registered, mission detail page, splitview option. 
+          Contribution: Opprettelse av TCP/IP-Server, Docker container, Api mot Backend og Database tabeller
 
-          Stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
+          Stack: <mark>Python</mark><mark>Docker</mark><mark>PHP</mark><mark>DB2</mark>
       
       - layout: top-middle
-        title: Scheduling system 
+        title: Scheduleringsystem
         link_text: 2021 - 2022
         quote: >
-          This project was a way for me to improve my frontend skills because I was responsible for large portions of the development. I was new to the process and, it was challenging at times, however I was able to work with an experienced frontend developer who was able to guide me in growing my skills.
+          Dette prosjektet var en måte for meg å forbedre mine frontend-ferdigheter på, fordi jeg var ansvarlig for store deler av utviklingen. Jeg var ny i prosessen og det var utfordrende til tider, men jeg hadde muligheten til å jobbe sammen med en erfaren frontend-utvikler som kunne veilede meg i å utvikle mine ferdigheter.
         description: | # this will include new lines to allow paragraphs
-          The scheduling system was a significant part of a large project which I worked on as a frontend developer, occasionally helping out the backend team. The main objective of this project was to give the planners a scheduling tool and a way to get an overview of the situation. This tool provides the planners the ability to schedule assignments and responsibilities for professionals such as; pilots, medics and pararescue specialists.
+          Scheduleringsystemet var en betydelig del av et stort prosjekt som jeg jobbet med som frontend-utvikler og av og til hjalp backend-teamet. Hovedmålet med dette prosjektet var å gi planleggerne et verktøy for tidsplanlegging og en måte å få en oversikt over situasjonen. Dette verktøyet gir planleggerne muligheten til å planlegge oppgaver og ansvarsområder for fagpersoner som piloter, medisinere og redningsspesialister.
 
-          Client: Norwegian Air Ambulance Helicopter AS
+          Client: Norsk Luftambulanse Helikopter AS
 
-          Results: Planners receive a good overview of the schedule of their personnel. They have access to a calendar that provides both detailed and big picture view of the schedule.  
+          Results: Planleggerne får en god oversikt over timeplanen til personalet sitt. De har tilgang til en kalender som gir både detaljert og overordnet bilde av tidsplanen.  
 
-          Contribution: Weekly shift view, further development of the schedule view e.g. increasing the view size, adding vacation and sick days, and shift exchange between employees. 
+          Contribution: Ukesvisning av vakt, videre utvikling av timeplanvisning med større visningsalternativer, inkludering av ferie- og sykedager, samt mulighet for vaktbytte mellom ansatte. 
 
           Frotend stack: <mark>Preact</mark><mark>Sass</mark><mark>Redux</mark><mark>PHP</mark>      
   
