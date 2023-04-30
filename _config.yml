@@ -23,7 +23,7 @@ linkedin_username: khalil-abuawad
 # about_title: Profile
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hei, mitt navn er Khalil, og jeg er en systemutvikler hos Norsk Luftambulanse Teknologi AS. Jeg er en erfaren fullstack-utvikler og tar stor stolthet i å være et verdsatt lagmedlem med et bredt spekter av ferdigheter og ekspertise. Jeg spesialiserer meg innen <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, og <mark>redux-saga</mark>.
+  Hei, mitt navn er Khalil, og jeg er en systemutvikler hos Norsk Luftambulanse Teknologi AS. Jeg er en erfaren fullstack-utvikler og tar stor stolthet i å være et verdsatt lagmedlem med et bredt spekter av ferdigheter og ekspertise. Jeg spesialiserer meg innen <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark>, <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, og <mark>redux-saga</mark>.
 
   Som en uavhengig og kreativ beslutningstaker er jeg alltid fokusert på å nå målene mine og finne innovative løsninger på problemer. Jeg er lidenskapelig opptatt av å hjelpe mennesker, og jeg tar meg tid til å forstå deres behov og utvikle løsninger som møter disse behovene.
 
@@ -77,7 +77,7 @@ content:
 
           Resultat: Planleggerne får en god oversikt over timeplanen til personalet sitt. De har tilgang til en kalender som gir både detaljert og overordnet bilde av tidsplanen.  
 
-          Bidrag: Ukesvisning av vakt, videre utvikling av timeplanvisning med større visningsalternativer, inkludering av ferie- og sykedager, samt mulighet for vaktbytte mellom ansatte. 
+          Bidrag: Ukesvisning av vakter, videre utvikling av timeplanvisning med større visningsalternativer, inkludering av ferie- og sykedager, samt mulighet for vaktbytte mellom ansatte. 
 
           Teknologi-stack: <mark>Preact</mark><mark>Sass</mark><mark>Redux</mark><mark>PHP</mark>      
   
