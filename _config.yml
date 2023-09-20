@@ -34,6 +34,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: H113 web application
+        link_text: 2023 -
+        quote: >
+          Jeg har fått ansvar og blitt introdusert inn i dette prosjektet i juli 2023. Det har vært veldig lærerikt og utfordrende å sette seg inn i et stort og komplekst prosjekt, og ikke minst lære nye verktøy som Typescript og Django.
+        description: | # this will include new lines to allow paragraphs
+          
+        
+          Kunde: HDO
+          
+          Resultat: 
+          
+          Bidrag: Nye admin sider, 
+          
+          Teknologi-stack: <mark>React</mark><mark>Typescript</mark><mark>Django</mark>><mark>Django rest framework</mark><mark>Webpack</mark><mark>Prettier</mark><mark>eslint</mark>
+    
+      - layout: top-middle
         title: Latsamband web applikasjon
         link_text: 2022 - 2023
         quote: >
