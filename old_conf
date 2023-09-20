@@ -1,1 +1,203 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
 
+# Content configuration version
+version: 2
+
+# Personal info
+name: Khalil Abuawad
+title: Systemutvikler
+email: khalil_abuawad@hotmail.com
+website: https://khalilabuawad.github.io/
+phone: 45280974
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username:  KhalilAbuawad
+linkedin_username: khalil-abuawad
+
+# About Section
+# about_title: Profile
+about_profile_image: images/profilepic.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hei, mitt navn er Khalil, og jeg er en systemutvikler hos Norsk Luftambulanse Teknologi AS. Jeg er en erfaren fullstack-utvikler og tar stor stolthet i å være et verdsatt lagmedlem med et bredt spekter av ferdigheter og ekspertise. Jeg har kunnskap innenfor <mark>Typescript</mark>, <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark>, <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, og <mark>redux-saga</mark>.
+
+  Som en uavhengig og kreativ beslutningstaker er jeg alltid fokusert på å nå målene mine og finne innovative løsninger på problemer. Jeg er lidenskapelig opptatt av å hjelpe mennesker, og jeg tar meg tid til å forstå deres behov og utvikle løsninger som møter disse behovene.
+
+  Min positive og proaktive tilnærming til problemløsning betyr at jeg er svært effektiv og dyktig i arbeidet mitt, og leverer konsekvent resultater av høy kvalitet. Jeg er alltid ivrig etter å lære og ta fatt på nye utfordringer, noe som gjør meg til en verdifull ressurs for ethvert team.
+
+content:
+  - title: Prosjekter # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Latsamband web applikasjon
+        link_text: 2022 - 2023
+        quote: >
+          Som hovedprogrammerer for dette prosjektet, presset jeg meg selv til nye høyder av ferdigheter og ekspertise. Jeg var ansvarlig for hele utviklingsprosessen, fra å velge prosjektstakken til å sette den opp og implementere full-stack funksjonalitet. I begynnelsen jobbet jeg på prosjektet alene, men etter hvert som det utviklet seg, samlet jeg et team for å støtte den fortsatte veksten og utviklingen. Jeg hadde også hovedansvaret for å designe og utvikle tilgangssystemet for applikasjonen. Målet var å sikre at brukerne fikk passende tilgangsnivåer og ble tilbudt personlige nettfunksjoner basert på deres tilgangsrettigheter.
+        description: | # this will include new lines to allow paragraphs
+          Latsamband er en innovativ tillegg til den eksisterende mobilapplikasjonen, også kalt Latsamband, som brukes av NLAs arbeidsstyrke. Denne nettbaserte plattformen tilbyr ansatte et praktisk alternativ til å utføre kjedelige oppgaver på sine mobile enheter. Den gir en omfattende og effektiv oversikt over deres oppgaver og bidrag, og lar dem legge til ytterligere informasjon når det er nødvendig. Applikasjonen inneholder et tilpassbart dashboard, som viser relevant informasjon om deres fremgang og status, inkludert muligheten til å registrere nye oppdrag og endre eksisterende, bla gjennom oppdrag med en personlig visning og melde seg på kurs. Videre hjelper denne applikasjonen ansatte å holde seg på sporet og støtter dem i å følge opp arbeidsdagen ved å gi varsler for nåværende oppgaver.
+        
+          Kunde: Norsk Luftambulanse AS
+          
+          Resultat: Responsiv, informativ, vakkert design, interaktiv, personlig tilpasset nettapplikasjon.
+          
+          Bidrag: Lagringsted(store), stack-oppsett, prosjektoppsett, utviklingsoppsett, produksjonsoppsett, komponenter: flere startside-sider, oversikt over registrerte oppdrag, oppdragsdetaljside, delt visningsalternativ.
+          
+          Teknologi-stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
+      
+      - layout: top-middle
+        title: Flightcell
+        link_text: 2022 - 2023
+        quote: >
+          Jeg oppnådde en dypere forståelse av Python-programmering etter å ha bygget en TCP/IP-server fra bunnen av. I tillegg fikk jeg innsikt i Docker og dets potensiale for å styrke et prosjekts robusthet ved å muliggjøre selvkonfigurering og autonom drift. Prosjektet lærte meg også mer om dataanalyse for å forbedre datakvaliteten.
+        description: | # this will include new lines to allow paragraphs
+          Målet med dette prosjektet er å overføre alle nåværende helikopterhendelser, inkludert posisjonsdata og andre hendelser, til en database. For å oppnå dette, benytter prosjektet TCP/IP for å fange meldinger-over-IP som kommer fra DZMx-enheter plassert i helikoptrene. Ved å bruke Docker, er prosjektet automatisert og forsterket for å sikre en problemfri oppsett og drift.
+
+          Kunde: Norsk Luftambulanse AS
+
+          Resultat: Svært motstandsdyktig server for datahenting uten vedlikeholdsbehov.
+
+          Bidrag: Opprettelse av TCP/IP-Server, Docker container, Api mot Backend og Database tabeller
+
+          Teknologi-stack: <mark>Python</mark><mark>Docker</mark><mark>PHP</mark><mark>DB2</mark>
+      
+      - layout: top-middle
+        title: Scheduleringsystem
+        link_text: 2021 - 2022
+        quote: >
+          Dette prosjektet var en måte for meg å forbedre mine frontend-ferdigheter på, fordi jeg var ansvarlig for store deler av utviklingen. Jeg var ny i prosessen og det var utfordrende til tider, men jeg hadde muligheten til å jobbe sammen med en erfaren frontend-utvikler som kunne veilede meg i å utvikle mine ferdigheter.
+        description: | # this will include new lines to allow paragraphs
+          Scheduleringsystemet var en betydelig del av et stort prosjekt som jeg jobbet med som frontend-utvikler og av og til hjalp backend-teamet. Hovedmålet med dette prosjektet var å gi planleggerne et verktøy for tidsplanlegging og en måte å få en oversikt over situasjonen. Dette verktøyet gir planleggerne muligheten til å planlegge oppgaver og ansvarsområder for fagpersoner som piloter, medisinere og redningsspesialister.
+
+          Kunde: Norsk Luftambulanse Helikopter AS
+
+          Resultat: Planleggerne får en god oversikt over timeplanen til personalet sitt. De har tilgang til en kalender som gir både detaljert og overordnet bilde av tidsplanen.  
+
+          Bidrag: Ukesvisning av vakter, videre utvikling av timeplanvisning med større visningsalternativer, inkludering av ferie- og sykedager, samt mulighet for vaktbytte mellom ansatte. 
+
+          Teknologi-stack: <mark>Preact</mark><mark>Sass</mark><mark>Redux</mark><mark>PHP</mark>      
+  
+  - title: Erfaring # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Norsk luftambulanse Teknolgi AS
+        link: https://norskluftambulanse.no/
+        # link_text: boringcompany.com
+        sub_title: System utvikler
+        caption: April 2020 - Present
+        quote: >
+          Norsk Luftambulanse jobber for å sikre at alle som er akutt syke eller alvorlig skadet, får raskere og mer presis medisinsk hjelp, uansett hvor de befinner seg i Norge.
+        description: | # this will include new lines to allow paragraphs
+            Jeg har jobbet på flere prosjekter og oppgaver internt i selskapet og for søsterselskap. Jeg har jobbet med alt fra fullstack oppgaver til databehandling og henting av data for å videreutvikle nye applikasjoner som brukes av personalet til Norsk luftambulanse. 
+            
+            <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwindcss</mark> <mark>Redux</mark> <mark>SQL</mark>
+      # The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, and much more.
+      - layout: left
+        title: Symantec AS
+        link: https://securitycloud.symantec.com/cc/landing
+        # link_text: boringcompany.com
+        sub_title: Computer software engineer 
+        caption: June 2017 - September 2019
+        quote: >
+          Selskapet tilbyr cybersikkerhetsprogramvare.
+        description: | # this will include new lines to allow paragraphs
+            Jeg ble tildelt rollen som frontend-utvikler for deres webapplikasjon som blir brukt av deres analyseteam. 
+            
+            <mark>React</mark> <mark>Go</mark> <mark>Redux</mark> <mark>Python</mark> 
+       
+      - layout: left
+        title: iMerciv Inc
+        link: https://www.imerciv.com/
+        # link_text: boringcompany.com
+        sub_title: Frontend utvikler
+        caption: June 2018 - August 2018
+        quote: >
+          Merciv tilbyr tjenester innen orientering og bevegelighet for blinde, døvblinde og synshemmede samfunn over hele verden.
+        description: | # this will include new lines to allow paragraphs
+            Å jobbe som en del av frontend-teamet på et nytt prosjekt i Toronto var en utrolig opplevelse som pushet meg til nye høyder av ferdigheter. Det var spennende å være nedsenket i oppstartsmiljøet i byen, som har blitt kalt det "nye Silicon Valley". Farten i bransjen var intens, og jeg elsket hvert øyeblikk av det.
+
+            Vårt prosjekt var å utvikle en mobilapplikasjon i React Native som var skreddersydd for behovene til mennesker med funksjonsnedsettelse, med fokus på å hjelpe dem med reiser, på samme måte som Google Maps. Vår tilnærming var å stole på fellesskapet for å merke og legge ut informasjon om hindringer, som for eksempel benker. Jeg var heldig nok til å jobbe sammen med erfarne utviklere, inkludert en dyktig UX-designer og en ekspert på tilgjengelighet for blinde, noe som hjalp meg med å få en dypere forståelse av programmering med tilgjengelighet, brukervennlighet og inkludering i tankene.
+
+            I løpet av min tid der arbeidet vi med å skape en MVP som vi kunne vise frem til potensielle investorer. Vi lyktes i våre anstrengelser, og vi feiret ved å dra på en live forestilling med Kevin Hart! Totalt sett var opplevelsen min i Toronto uforglemmelig og lærte meg så mye om bransjen og betydningen av å designe med mangfold og inkludering i tankene.
+            
+            <mark>React Native</mark>
+
+  - title: Utdannelse # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Mastergrad i informatikk - programmering og systemarkitektur
+        caption: 2019
+        sub_title: Universitet i Oslo
+        quote: >
+          Etablert i 1811, er UiO den eldste høyere utdanningsinstitusjonen i Norge, og er bredt anerkjent for sin innflytelse, omdømme og akademiske arv som et ledende universitet i de nordiske landene.
+        description: | # this will include new lines to allow paragraphs
+          Mitt studie mot en mastergrad spenner over et bredt spekter av fag, og omfattet ulike emner som ledet meg til Gründerskolen. Dette gjorde det mulig for meg å gjennomføre en tre måneders internship i Toronto hvor jeg fikk oppleve den raske oppstartsindustrien. Denne opplevelsen tillot meg å utvikle meg både profesjonelt og personlig. Mens jeg tok min mastergrad, ble jeg interessert i et emne kalt "Maskinlæring og fornybar energi", som inspirerte min masteroppgave: Maskinlæringsprediksjon av strømforbruk for lading av elektriske kjøretøy i Norge. Gjennom grundig forskning i min mastergrad lærte jeg mye om databehandling og analyse innen maskinlæring. Som en med bakgrunn innen programmering, forventet jeg ikke at maskinlæring ville bestå av så mye databehandling og analyse. Jeg likte å programmere og eksperimentere med forskjellige maskinlæringsteknikker i python.
+      - layout: left
+        title: Bachelorgrad i informatikk, programmering og systemarkitektur.
+        caption: 2016
+        sub_title: Universitet i Oslo
+        quote: >
+          Etablert i 1811, er UiO den eldste høyere utdanningsinstitusjonen i Norge, og er bredt anerkjent i forhold til sin innflytelse, omdømme og akademiske arv som et ledende universitet i de nordiske landene.
+        description: | # this will include new lines to allow paragraphs
+          Programmet inkluderer teori og metoder for programmering av både individuelle maskiner og maskiner i nettverk. Man lærer å lage systemer som er pålitelige, fleksible, brukervennlige og effektive. Praktiske løsninger på problemer er en del av utdanningen. Man får innsikt i teknologien bak datamaskiner, hvordan maskinen kan brukes til å løse oppgaver og hvilke utfordringer informasjonsteknologisamfunnet gir oss.
+          IT er mer enn et verktøy for andre fag. Som en datavitenskapsmann er man en aktiv drivkraft i samfunnsutviklingen. Man jobber med grunnleggende problemstillinger som gir nye innsikter og muligheter i hele samfunnet ved å hjelpe til med å skape nye applikasjoner.
+  
+  - title: Kurs
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Prosjekt leder (2021)
+      - Photografi (2020) 
+      - Typescript (2023)
+  
+  - title: Teknologisk kompetanse
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Metoder:
+        - Kanban, prosjektledelse, brukerhistorier, brukertesting.
+
+      Verktøy:
+        - Jira, Bitbucket, Visual Studio Code, Phpstorm, Datagrip, IBM ACS, Git, Postman, Docker, Pycharm
+
+      Programmeringsspråk:
+        - Javascript, Python, SQL, PHP, HTML, JSON, CSS, SCSS, R
+
+      Framework:
+        - React, Preact, Redux, Redux-saga, Tailwindcss, and React Native
+
+      Libraries:
+        - Webpack, Vite, Babel
+
+      Cloud:
+        - Azure
+
+      Database:
+        - DB2
+  
+  - title: Litt mer om meg
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Selv om jeg tilbringer mye tid foran datamaskinen, liker jeg å tilbringe tid i naturen og sammen med andre. Jeg bryr meg om de rundt meg og ønsker å se dem trives. I tillegg til min interesse for systemutvikling, har jeg også flere andre interesser og hobbyer, inkludert:
+      - Kampsport
+      - Calisthenics
+      - Tegne/male
+      - Hiking/road trips
+
+# Footer
+footer_show_references: true
+references_title: Referanser gis ved forespørsel.
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
