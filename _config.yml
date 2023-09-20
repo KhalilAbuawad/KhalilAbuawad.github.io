@@ -47,7 +47,7 @@ content:
           
           Bidrag: Nye admin sider, rapport generering og responsive design endringer på siden. 
           
-          Teknologi-stack: <mark>React</mark><mark>Typescript</mark><mark>Django</mark><mark>Docker</mark><mark>Bitbucket</mark><mark>Webpack</mark>mark>Prettier</mark><mark>eslint</mark><mark>webRTC</mark><mark>preact</mark><mark>Node.js</mark><mark>Websocket</mark>
+          Teknologi-stack: <mark>React</mark><mark>Typescript</mark><mark>Django</mark><mark>Docker</mark><mark>Bitbucket</mark><mark>Webpack</mark><mark>Prettier</mark><mark>eslint</mark><mark>webRTC</mark><mark>preact</mark><mark>Node.js</mark><mark>Websocket</mark>
     
       - layout: top-middle
         title: Latsamband web applikasjon
