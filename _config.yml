@@ -23,9 +23,9 @@ linkedin_username: khalil-abuawad
 # about_title: Profile
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hei, mitt navn er Khalil, og jeg er en systemutvikler hos Norsk Luftambulanse Teknologi AS. Jeg er en erfaren fullstack-utvikler og tar stor stolthet i å være et verdsatt lagmedlem med et bredt spekter av ferdigheter og ekspertise. Jeg har kunnskap innenfor <mark>Typescript</mark>, <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark>, <mark>SQL</mark>, <mark>SCSS</mark>, <mark>taildwindcss</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>redux</mark>, og <mark>redux-saga</mark>.
+  Hei, jeg heter Khalil, og jeg er systemutvikler hos Norsk Luftambulanse Teknologi AS. Som erfaren fullstack-utvikler tar jeg stor stolthet i å være en verdsatt lagspiller med et bredt spekter av ferdigheter og ekspertise. Jeg har kunnskap innenfor <mark>Django</mark>, <mark>Typescript</mark>, <mark>React</mark>, <mark>Python</mark>, <mark>CSS</mark>, <mark>PHP</mark>, <mark>SQL</mark>, <mark>SCSS</mark>, <mark>Tailwind CSS</mark>, <mark>db2</mark>, <mark>docker</mark>, <mark>Playwright</mark> og <mark>redux</mark>.
 
-  Som en uavhengig og kreativ beslutningstaker er jeg alltid fokusert på å nå målene mine og finne innovative løsninger på problemer. Jeg er lidenskapelig opptatt av å hjelpe mennesker, og jeg tar meg tid til å forstå deres behov og utvikle løsninger som møter disse behovene.
+  Det er viktig for meg å bidra med mitt sandkorn i menneskehetens store ørken av teknologi og innovasjon. Som en selvstendig og kreativ beslutningstaker er jeg alltid fokusert på å nå målene mine og finne innovative løsninger på problemer. Jeg er lidenskapelig opptatt av å hjelpe mennesker, og jeg tar meg tid til å forstå deres behov og utvikle løsninger som møter disse behovene.
 
   Min positive og proaktive tilnærming til problemløsning betyr at jeg er svært effektiv og dyktig i arbeidet mitt, og leverer konsekvent resultater av høy kvalitet. Jeg er alltid ivrig etter å lære og ta fatt på nye utfordringer, noe som gjør meg til en verdifull ressurs for ethvert team.
 
@@ -34,24 +34,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: H113 videoapplikasjon
+        title: 113 Video
         link_text: 2023 - 
         quote: >
-          Jeg har nylig overtatt ansvaret for dette prosjektet, en oppgave som har både vært utfordrende og berikende. Jeg har dykket dypt inn i nye verktøy som Django og Typescript. Det er verdt å merke seg at Admin-løsningen bare er én av fire komponenter i videoapplikasjonen. I tillegg har jeg begynt å utforske videoprosjektet, noe som krever at jeg blir kjent med videoteknologi.
+          I dette prosjektet ble jeg godt kjent med django, typescript, docker, playwright og ant media. Den viktigste erfaringen jeg fikk var hvordan Playwright, Django og TypeScript kan brukes til å utvikle robuste løsninger, samt verdien av testdrevet utvikling.
         description: | # this will include new lines to allow paragraphs
-          Admin er hovedgrensesnittet for 113 Video-administratorer. Den lar gruppens ledere administrere brukere, ressurser og innstillinger. Den har også løsninger for superadministratorer fra SNLA og våre vertspartnere for å styre globale innstillinger og alle grupper/brukere. Video er hovedgrensesnittet for brukere av 113 Video. Herfra kan de invitere oppringere til å streame video fra telefonene sine, se oppringerens plassering og invitere andre til å se videoen direkte.
+          113 Video er en robust, brukervennlig og effektiv løsning for operatører i helsevesenet, som gir dem muligheten til å undersøke nødsituasjoner med video. Dette avlaster helsevesenet betydelig ved å gi bedre innsikt i nødsituasjonen og hvilke ressurser som trengs. Applikasjonen er delt i to hovedkomponenter: Admin og Video. Hele prosjektet er bygget med Django, med TypeScript i frontend og Python i backend.
         
           Kunde: Norsk Luftambulanse AS
           
-          Resultat: Responsiv design og rapport genering av statistikk data.
+          Resultat: Pågående utvikling, nylig utviklet en ny survey-subapp for å forske på nødvendigheten av video i nødsituasjoner.
           
-          Bidrag: Nye admin sider, rapport generering og responsive design endringer på siden. 
+          Bidrag: Nye admin sider, rapport generering, responsive design endringer, survey, samt konvertering av en eldre Preact-basert videoløsning til en TypeScript-subapp for bedre dataflyt og sikkerhet.
           
-          Teknologi-stack: <mark>React</mark><mark>Typescript</mark><mark>Django</mark><mark>Docker</mark><mark>Bitbucket</mark><mark>Webpack</mark><mark>Prettier</mark><mark>eslint</mark><mark>webRTC</mark><mark>preact</mark><mark>Node.js</mark><mark>Websocket</mark>
+          Teknologi-stack: <mark>Playwright</mark><mark>Typescript</mark><mark>Django</mark><mark>Docker</mark><mark>Bitbucket</mark><mark>Prettier</mark><mark>eslint</mark><mark>webRTC</mark><mark>Node.js</mark><mark>ANT media</mark>
     
       - layout: top-middle
         title: Latsamband web applikasjon
-        link_text: 2022 - 2023
+        link_text: 2022 - 
         quote: >
           Som hovedprogrammerer for dette prosjektet, presset jeg meg selv til nye høyder av ferdigheter og ekspertise. Jeg var ansvarlig for hele utviklingsprosessen, fra å velge prosjektstakken til å sette den opp og implementere full-stack funksjonalitet. I begynnelsen jobbet jeg på prosjektet alene, men etter hvert som det utviklet seg, samlet jeg et team for å støtte den fortsatte veksten og utviklingen. Jeg hadde også hovedansvaret for å designe og utvikle tilgangssystemet for applikasjonen. Målet var å sikre at brukerne fikk passende tilgangsnivåer og ble tilbudt personlige nettfunksjoner basert på deres tilgangsrettigheter.
         description: | # this will include new lines to allow paragraphs
@@ -63,7 +63,7 @@ content:
           
           Bidrag: Lagringsted(store), stack-oppsett, prosjektoppsett, utviklingsoppsett, produksjonsoppsett, komponenter: flere startside-sider, oversikt over registrerte oppdrag, oppdragsdetaljside, delt visningsalternativ.
           
-          Teknologi-stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwindcss</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
+          Teknologi-stack: <mark>React</mark><mark>SCSS</mark><mark>Redux</mark><mark>PHP</mark><mark>DB2</mark><mark>Tailwind CSS</mark><mark>Webpack</mark><mark>Redux-saga</mark><mark>Prettier</mark><mark>eslint</mark>
       
       - layout: top-middle
         title: Flightcell
@@ -83,7 +83,7 @@ content:
       
       - layout: top-middle
         title: Scheduleringsystem
-        link_text: 2021 - 2022
+        link_text: 2021 - 
         quote: >
           Dette prosjektet var en måte for meg å forbedre mine frontend-ferdigheter på, fordi jeg var ansvarlig for store deler av utviklingen. Jeg var ny i prosessen og det var utfordrende til tider, men jeg hadde muligheten til å jobbe sammen med en erfaren frontend-utvikler som kunne veilede meg i å utvikle mine ferdigheter.
         description: | # this will include new lines to allow paragraphs
@@ -105,20 +105,20 @@ content:
         link: https://norskluftambulanse.no/
         # link_text: boringcompany.com
         sub_title: System utvikler
-        caption: April 2020 - Present
+        caption: April 2020 - 
         quote: >
           Norsk Luftambulanse jobber for å sikre at alle som er akutt syke eller alvorlig skadet, får raskere og mer presis medisinsk hjelp, uansett hvor de befinner seg i Norge.
         description: | # this will include new lines to allow paragraphs
             Jeg har jobbet på flere prosjekter og oppgaver internt i selskapet og for søsterselskap. Jeg har jobbet med alt fra fullstack oppgaver til databehandling og henting av data for å videreutvikle nye applikasjoner som brukes av personalet til Norsk luftambulanse. 
             
-            <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwindcss</mark> <mark>Redux</mark> <mark>SQL</mark>
+            <mark>React</mark> <mark>Preact</mark> <mark>PHP</mark> <mark>IBM DB2</mark> <mark>JavaScript</mark> <mark>Python</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Tailwind CSS</mark> <mark>Redux</mark> <mark>SQL</mark>
       # The main objective of this project was to give the planners a scheduling tool, but also have a great overview of the scheduling situation. This tool gives the planners the ability to plan the schedule for all the pilots, medics and pararescuers, and much more.
       - layout: left
         title: Symantec AS
         link: https://securitycloud.symantec.com/cc/landing
         # link_text: boringcompany.com
         sub_title: Computer software engineer 
-        caption: June 2017 - September 2019
+        caption: Juni 2017 - September 2019
         quote: >
           Selskapet tilbyr cybersikkerhetsprogramvare.
         description: | # this will include new lines to allow paragraphs
@@ -131,7 +131,7 @@ content:
         link: https://www.imerciv.com/
         # link_text: boringcompany.com
         sub_title: Frontend utvikler
-        caption: June 2018 - August 2018
+        caption: Juni 2018 - August 2018
         quote: >
           Merciv tilbyr tjenester innen orientering og bevegelighet for blinde, døvblinde og synshemmede samfunn over hele verden.
         description: | # this will include new lines to allow paragraphs
@@ -178,31 +178,35 @@ content:
         - Kanban, prosjektledelse, brukerhistorier, brukertesting.
 
       Verktøy:
-        - Jira, Bitbucket, Visual Studio Code, Phpstorm, Datagrip, IBM ACS, Git, Postman, Docker, Pycharm
+        - Atlassian(Jira, Bitbucket), JetBrains(IntelliJ, Pycharm, Datagrip), IBM ACS, Git, Postman, Docker, 
 
       Programmeringsspråk:
-        - Javascript, Python, SQL, PHP, HTML, JSON, CSS, SCSS, R
+        - Javascript, Python, SQL, PHP, Typescript
+
+      Markup/styling and dataformats:
+        - HTML, CSS, SCSS, Tailwind CSS, JSON, YAML
 
       Framework:
-        - React, Preact, Redux, Redux-saga, Tailwindcss, and React Native
+        - Django, React, Preact, and React Native
 
       Libraries:
-        - Webpack, Vite, Babel
+        - Webpack, Vite, Babel, Redux, Redux-saga
 
       Cloud:
-        - Azure
+        - Azure, AWS
 
       Database:
-        - DB2
+        - DB2, MySQL
   
   - title: Litt mer om meg
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Selv om jeg tilbringer mye tid foran datamaskinen, liker jeg å tilbringe tid i naturen og sammen med andre. Jeg bryr meg om de rundt meg og ønsker å se dem trives. I tillegg til min interesse for systemutvikling, har jeg også flere andre interesser og hobbyer, inkludert:
+      Selv om jeg bruker mye tid foran datamaskinen, setter jeg pris på å være ute i naturen og tilbringe tid med andre. Jeg bryr meg om de rundt meg og ønsker at de trives. Mine hoved interesser er:
+      - Volleyball
+      - Snowboarding
       - Kampsport
       - Calisthenics
       - Tegne/male
-      - Hiking/road trips
 
 # Footer
 footer_show_references: true
